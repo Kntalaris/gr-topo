@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "name_greek": "Πέλλα",
-        "cartodb_id": "",
+        "cartodb_id": "57000000",
         "created_at": "2015-06-22T09:21:43Z",
         "updated_at": "2015-06-22T09:38:37Z",
         "name": "Pella"
